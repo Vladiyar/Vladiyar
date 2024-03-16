@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Vladiyar.
-I'm a full-stack developer with 3 full years of experience.
+I'm a full-stack developer.
 
 ## My Skills
 
