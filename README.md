@@ -5,7 +5,7 @@ I'm a full-stack developer with 3 full years of experience.
 ## My Skills
 - JavaScript / TypeScript (React, Next, Nest)
 - Python (FastAPI, Django)
-https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 ## Contact Me
 - Email: vladiyar.n@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vladiyar-nadyozha-945726127/
