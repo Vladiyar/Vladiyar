@@ -3,10 +3,9 @@ I'm Vladiyar, you can tell since it's the same name as my nickname, haha
 I'm a full-stack developer with 3 full years of experience.
 
 ## My Skills
-- JavaScript / TypeScript (!Node.js
-React, Next, Nest)
+- JavaScript / TypeScript (React, Next, Nest)
 - Python (FastAPI, Django)
-
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 ## Contact Me
 - Email: vladiyar.n@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vladiyar-nadyozha-945726127/
