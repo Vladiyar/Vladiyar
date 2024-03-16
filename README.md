@@ -1,9 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 I'm Vladiyar, you can tell since it's the same name as my nickname, haha
 I'm a full-stack developer with 3 full years of experience.
 
 ## My Skills
-- JavaScript / TypeScript (React, Next, Nest)
+- JavaScript / TypeScript (!Node.js
+React, Next, Nest)
 - Python (FastAPI, Django)
 
 ## Contact Me
