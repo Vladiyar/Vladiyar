@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Vladiyar.
-I'm a full-stack developer.
+I'm a full-stack developer 😊.
 
 ## My Skills
 
